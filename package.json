@@ -1,0 +1,19 @@
+{
+  "name": "node_backend",
+  "version": "1.0.0",
+  "description": "It's a node js backend setup to understand backend concepts and practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikashgiri2002/node_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikashgiri2002/node_backend/issues"
+  },
+  "homepage": "https://github.com/bikashgiri2002/node_backend#readme"
+}
